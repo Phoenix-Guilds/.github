@@ -26,7 +26,7 @@
 ### 🛡️ Сайты гильдий
 | Гильдия | Назначение | Уровни | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Nest Phoenix** | Испытание "Один шанс" (ХК) | 1-79 | (https://true-phoenix.github.io/nest) |
+| **Phoenix Nest** | Испытание "Один шанс" (ХК) | 1-79 | (https://true-phoenix.github.io/nest) |
 | **True Phoenix** | Основной состав (статик) | 80 | (https://true-phoenix.github.io) |
 
 ---
