@@ -1,6 +1,6 @@
 # True Phoenix, Phoenix Nest Guilds | World of Warcraft Sirus x5
 
-![Guild Header](https://raw.githubusercontent.com/Phoenix-Guilds/.github/main/images/logo-phoenix-nest.png)
+![Guild Header](images/logo-phoenix-nest.png)
 
 ### О нас
 Добро пожаловать в официальный репозиторий гильдий **Фениксов** сервера Sirus x5:
