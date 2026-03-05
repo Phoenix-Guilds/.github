@@ -20,6 +20,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A6E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+HnliAMRqO9A5ZGVi)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PhoenixNestGuild)
 [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/UyvwHtv4u5)
+[![Twitch](https://img.shields.io/badge/Twitch-Live-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]([https://www.twitch.tv/phoenixnestguild])
 
 ---
 
